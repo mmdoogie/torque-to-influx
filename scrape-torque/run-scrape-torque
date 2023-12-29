@@ -1,0 +1,2 @@
+#!/bin/bash
+/wherever/scrape-torque/scrape-torque.py > /wherever/scrape-torque/lastlog 2>&1
